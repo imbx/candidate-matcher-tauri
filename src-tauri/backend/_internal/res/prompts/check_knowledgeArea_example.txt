@@ -1,0 +1,108 @@
+Now with the areas given, I will provide you an example:
+EXAMPLE CANDIDATE CV:**
+##Jose Miguel Arranz García
+##Software & Videogames Developer
+I define myself as a creative, efficient and organized individual, eager to learn and improve.
+Always looking for a better approach or solution. From my previous experience, I get adapted quickly
+to any work environment.
+📍 Madrid (Spain) ✉ XXXXXXXXXX@gmail.com 📞 +34 XXX XXX XXX
+🌐 Github 🕒 9AM - 20PM (CEST) Mon-Sat 🌐 itch.io
+##Skills
+##⌨Programming
+languages
+Python
+SQL
+C# (.NET)
+JS & TS
+Java
+Lua
+HTML & CSS
+##📚Technologies
+REST API
+ETL procedures
+Data streaming
+(Kafka, basic)
+AWS (Lambda, EC2,
+S3, basic lvl)
+##🗃Databases
+MSSQL
+MySQL
+ORASQL
+MongoDB
+Firebase
+##🛠Frameworks and tools
+NodeJs
+GIT & GitLab
+Docker
+Dynatrace
+Jira / Confluence
+Office / GSuit
+##🔧Others
+Cibersecurity
+IA & ML (basic lvl)
+EmberJS & React
+ReactNative
+##Languages
+Spanish (Native)
+English (Advanced,
+FCE)
+Catalan (Medium)
+Italian (Basic)
+##Projects
+Dashboard - ASP.NET front-end, Python server-side + MSSQL (Docker
+containers)
+Designed to gather information from Github and Jira, linking tasks to projects.
+Currently working on an ODI-like interface for scheduling daily tasks via a visual and
+interactive interface.
+Discord Bot - NodeJs, Discord API (RestAPI)
+Explored Discord API capabilities for developing basic bot functionalities.
+Blaunch - Typescript, React, Electron, Python server-side (using SQLite)
+Initially backend developed using AWS technologies (EC2) to develop my skills, later
+migrated to a local server due to maintance costs.
+Cibercafe web-app to automate every possible tasks (billing, community management,
+computer's management...) and provide statistics / estimations based on user data
+(played games, session durations, hook ratio...)
+Developments at Az
+Engaged in multiple projects involving various programming languages, databases, and
+procedures.
+Migrated mailing services locally to reduce costs, simplify the application landscape
+and improve performance.
+Developed and deployed a Technical Enabler project at Allianz, with three other
+projects pending approval.
+##Work Experience
+Production Support - Allianz Technology
+TAD on AZP-Italy BUNov 2021 - Now
+Managed incidents, performed application maintenance, and deployed UAT and PROD
+environments.
+Implemented ETL procedures for BI data, working as a consumer for a Kafka platform.
+Utilized tools such as Jira, Confluence, Dynatrace, and ServiceNow, with programming
+languages and databases including .NET, PHP, JS, Java, MSSQL, ORASQL, and
+MySQL.
+Coordinated communication with users to troubleshoot issues and plan activities,
+ensuring high availability and optimization of applications.
+Decommissioned applications and servers, and migrated data and services.
+Elite Gaming Center
+e-Sports gaming centerMar - Oct 2019
+Managed customer interactions and community events, resolving technical issues and
+coordinating eSports tournaments.
+Developed a matchmaking algorithm for creating balanced teams during nightly
+tournaments.
+Technical Support - Psicosoft
+Human Resources consultoryMar - Aug 2019
+Ensured smooth technical operation during teamwork lessons via video games.
+Assisted students with gameplay and resolved technical issues promptly.
+##Certifications
+Data Engineer Certificate by IBM
+(in progress)2024 - Now
+##Education
+Cibersecurity (Curso superior)
+Deusto Formación2023 - Now
+Videogame Development & Production
+Tecnocampus (UPF)2017 - 2021
+Computer Science
+Universitat Pompeu Fabra (UPF)2016 - 2017
+
+YOUR ANSWER:
+IT & Tech Engineering | Project Management | Data & Analytics | Ingeniería informática y tecnológica | Gestión de Proyectos | Operaciones | Operations | Servicios de atención al Cliente y Reclamaciones | Venta y Distribución
+
+Now its your turn, the following lines will be the candidate CV:
